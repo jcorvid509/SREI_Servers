@@ -11,13 +11,13 @@ Vamos a instalar un servidor web interno para un instituto. Se Pide:
 |||
 |--|--|
 | Instalación del servidor web apache. | [<img src="/md/res/_arrow.svg" width="30">](/md/1.md) |
-| Activar los módulos necesarios para ejecutar php y acceder a mysql | [<img src="/md/res/_arrow.svg" width="30">](/md/1.md) |
-| Instala y configura wordpress | [<img src="/md/res/_arrow.svg" width="30">](/md/1.md) |
-| Activar el módulo “wsgi” para permitir la ejecución de aplicaciones Python | [<img src="/md/res/_arrow.svg" width="30">](/md/1.md) |
-| Crea y despliega una pequeña aplicación python para comprobar que funciona correctamente. | [<img src="/md/res/_arrow.svg" width="30">](/md/1.md) |
-| Adicionalmente protegeremos el acceso a la aplicación python mediante autenticación | [<img src="/md/res/_arrow.svg" width="30">](/md/1.md) |
-| Instala y configura awstat. | [<img src="/md/res/_arrow.svg" width="30">](/md/1.md) |
-| Instala un segundo servidor de tu elección (nginx, lighttpd) bajo el dominio “servidor2.centro.intranet”. | [<img src="/md/res/_arrow.svg" width="30">](/md/1.md) |
+| Activar los módulos necesarios para ejecutar php y acceder a mysql | [<img src="/md/res/_arrow.svg" width="30">](/md/2.md) |
+| Instala y configura wordpress | [<img src="/md/res/_arrow.svg" width="30">](/md/3.md) |
+| Activar el módulo “wsgi” para permitir la ejecución de aplicaciones Python | [<img src="/md/res/_arrow.svg" width="30">](/md/4.md) |
+| Crea y despliega una pequeña aplicación python para comprobar que funciona correctamente. | [<img src="/md/res/_arrow.svg" width="30">](/md/5.md) |
+| Adicionalmente protegeremos el acceso a la aplicación python mediante autenticación | [<img src="/md/res/_arrow.svg" width="30">](/md/6.md) |
+| Instala y configura awstat. | [<img src="/md/res/_arrow.svg" width="30">](/md/7.md) |
+| Instala un segundo servidor de tu elección (nginx, lighttpd) bajo el dominio “servidor2.centro.intranet”. | [<img src="/md/res/_arrow.svg" width="30">](/md/8.md) |
 
 > A la finalización del trabajo se procederá a una exposición de la presentación
 
