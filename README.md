@@ -1,4 +1,4 @@
-<p style="text-aling:center;height:100px"><img src="/md/res/_banner.svg"></p>
+<p style="text-aling:center;"><img src="/md/res/_banner.svg"></p>
 
 ---
 
