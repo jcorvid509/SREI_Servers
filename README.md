@@ -9,7 +9,7 @@
 Vamos a instalar un servidor web interno para un instituto. Se Pide:
 
 * Instalación del servidor web apache.
-[<img src="/md/res/_arrow.svg" width="50">](/md/1.md)
+[<img src="/md/res/_arrow.svg" width="10">](/md/1.md)
 
 * Activar los módulos necesarios para ejecutar php y acceder a mysql
 [<img src="/md/res/_arrow.svg" width="50">](/md/2.md)
