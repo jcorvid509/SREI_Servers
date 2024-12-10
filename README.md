@@ -32,7 +32,8 @@ En enlace de dicho repositorio se incluirá en el repositorio del módulo, espec
 
 Fecha de entrega: La fecha límite de entrega será el 5 de diciembre.
 
-<footer>
-<p>Author: Javier Coronel Vides</p>
-<p><a href="mailto:covija97@gmail.com">Email</a></p>
-</footer>
+> 
+> Author: `Javier Coronel Vides`
+>
+> Curso: `2º ASIR`
+> 
