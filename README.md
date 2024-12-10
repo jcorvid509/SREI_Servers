@@ -4,7 +4,9 @@
 
 Author: `Javier Coronel Vides`
 
-Curso: `2º ASIR`
+Course: `2º ASIR`
+
+Subject: `Servicios de Red e Internet`
 
 ---
 
