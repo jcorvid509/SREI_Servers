@@ -31,3 +31,8 @@ Se creará un repositorio en Github en el que se documentarán los pasos llevado
 En enlace de dicho repositorio se incluirá en el repositorio del módulo, especificando claramente que se trata de la práctica de servidores web.
 
 Fecha de entrega: La fecha límite de entrega será el 5 de diciembre.
+
+<footer>
+<p>Author: Javier Coronel Vides</p>
+<p><a href="mailto:covija97@gmail.com">Email</a></p>
+</footer>
