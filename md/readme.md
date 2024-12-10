@@ -1,0 +1,1 @@
+<p style="text-aling:center;height:100px"><img src="res/_banner.png"></p>
