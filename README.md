@@ -1,5 +1,9 @@
 <p style="text-aling:center;height:100px"><img src="/md/res/_banner.svg"></p>
 
+> Author: `Javier Coronel Vides`
+>
+> Curso: `2º ASIR`
+
 ---
 
 # SREI_Servers
@@ -31,9 +35,3 @@ Se creará un repositorio en Github en el que se documentarán los pasos llevado
 En enlace de dicho repositorio se incluirá en el repositorio del módulo, especificando claramente que se trata de la práctica de servidores web.
 
 Fecha de entrega: La fecha límite de entrega será el 5 de diciembre.
-
-> 
-> Author: `Javier Coronel Vides`
->
-> Curso: `2º ASIR`
-> 
