@@ -1,8 +1,8 @@
 <p style="text-aling:center;height:100px"><img src="/md/res/_banner.svg"></p>
 
-> Author: `Javier Coronel Vides`
->
-> Curso: `2º ASIR`
+Author: `Javier Coronel Vides`
+
+Curso: `2º ASIR`
 
 ---
 
