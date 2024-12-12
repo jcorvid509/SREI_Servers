@@ -22,7 +22,9 @@ Vamos a instalar un servidor web interno para un instituto. Se Pide:
 
 |||
 |--|--|
-| Instalación del servidor web apache. | [![](/md/res/_arrowD.svg#gh-dark-mode-only)![](/md/res/_arrowL.svg#)](/md/1.md) |
+| Instalación del servidor web apache. | [
+    ![](/md/res/_arrowD.svg#gh-dark-mode-only)
+    ![](/md/res/_arrowL.svg#)](/md/1.md) |
 | Activar los módulos necesarios para ejecutar php y acceder a mysql | [![](/md/res/_arrowD.svg#gh-dark-mode-only)![](/md/res/_arrowL.svg#)](/md/2.md) |
 | Instala y configura wordpress | [![](/md/res/_arrowD.svg#gh-dark-mode-only)![](/md/res/_arrowL.svg#)](/md/3.md) |
 | Activar el módulo “wsgi” para permitir la ejecución de aplicaciones Python | [![](/md/res/_arrowD.svg#gh-dark-mode-only)![](/md/res/_arrowL.svg#)](/md/4.md) |
