@@ -1,4 +1,7 @@
-<p style="text-aling:center;height:100px"><img src="/md/res/_bannerW.svg#gh-dark-mode-only"><img src="/md/res/_bannerB.svg#gh-light-mode-only"></p>
+<p style="text-aling:center;height:100px">
+  ![](/md/res/_bannerW.svg#gh-dark-mode-only)
+  ![](/md/res/_bannerB.svg#gh-light-mode-only)
+</p>
 
 ---
 
